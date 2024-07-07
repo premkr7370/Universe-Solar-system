@@ -244,7 +244,7 @@ body {
     right: 10em; /* Position from right */
     width: 4em; /* Set width */
     height: 4em; /* Set height */
-    background-image: url("/images/pluto.png"); /* Background image */
+    background-image: url("./images/pluto.png"); /* Background image */
     background-size: cover; /* Cover background size */
   }
   
